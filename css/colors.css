@@ -1,11 +1,11 @@
 :root {
     /* Special */
-    --background: #002B36;
+    --background: #fdf6e3;
     --foreground: #93a1a1;
-    --cursor: #E7D0C7;
+    --cursor: #002B36;
 
     /* Colors */
-    --color0: #08323C;
+    --color0: #fdf6e3;
     --color1: #dc322f;
     --color2: #859900;
     --color3: #b58900;
