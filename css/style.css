@@ -42,6 +42,16 @@ a:focus { outline: 0; }
   z-index: 10;
 }
 
+.logo {
+  background-image: url("../imgs/logo-480.png");
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  background-position: center center;
+  height: 300px;
+  margin: auto;
+  width: 300px;
+}
+
 .color0{ color: var(--color0); }
 .color1{ color: var(--color1); }
 .color2{ color: var(--color2); }
@@ -100,7 +110,6 @@ pre {
 
 .page {
   bottom: 0; 
-  padding-top: 145px;
   position: absolute; 
   text-align: center;
   top: 56px;  
